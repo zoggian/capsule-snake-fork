@@ -48,7 +48,7 @@ gameDisplay = pygame.display.set_mode((display_width, display_height))
 
 pygame.display.set_caption('CAPSULE: A Snake Fork')
 
-#best size for icon is 32x32
+#best size for icon is 32x32.
 icon = pygame.image.load('assets/cube.png')
 pygame.display.set_icon(icon)
 
