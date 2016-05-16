@@ -35,6 +35,8 @@ As said before, the code is **terrible**. If any poor soul stumbles on this, the
 ![Game in Action (Visible Bug)](https://github.com/zoggian/capsule-snake-fork/blob/master/asset/capsule_big5.jpg)
 ![Pause Screen with Music Selection UI](https://github.com/zoggian/capsule-snake-fork/blob/master/asset/capsule_big6.jpg)
 
+######**NOTE!**If you want to play this, you have to install Python 3+ --64bit and Pygame 1.9 --64bit
+
 
 
 
