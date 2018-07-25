@@ -8,7 +8,7 @@ CAPSULE is my first major coding project that dealt with nested loops, interlink
 
 The code is a big mess to say the least. I didn't fully utilize the tools Python and Pygame had to offer, as such, I repeat myself a lot.
 
-####So... It's Just Snake, Right?
+##So... It's Just Snake, Right?
 
 The basic core of CAPSULE was built with the help of a Snake tutorial, yes, but I tweaked the design and game logic, added menus, and button logic to make the game, the UX, and the UI a bit more interesting.
 
